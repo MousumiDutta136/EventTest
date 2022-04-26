@@ -1,0 +1,15 @@
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\bin\Debug\net6.0\EventTest.exe
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\bin\Debug\net6.0\EventTest.deps.json
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\bin\Debug\net6.0\EventTest.runtimeconfig.json
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\bin\Debug\net6.0\EventTest.dll
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\bin\Debug\net6.0\ref\EventTest.dll
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\bin\Debug\net6.0\EventTest.pdb
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\obj\Debug\net6.0\EventTest.csproj.AssemblyReference.cache
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\obj\Debug\net6.0\EventTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\obj\Debug\net6.0\EventTest.AssemblyInfoInputs.cache
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\obj\Debug\net6.0\EventTest.AssemblyInfo.cs
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\obj\Debug\net6.0\EventTest.csproj.CoreCompileInputs.cache
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\obj\Debug\net6.0\EventTest.dll
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\obj\Debug\net6.0\ref\EventTest.dll
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\obj\Debug\net6.0\EventTest.pdb
+C:\Users\dutta\source\repos\Humber\EventTest\EventTest\obj\Debug\net6.0\EventTest.genruntimeconfig.cache
